@@ -1,0 +1,18 @@
+,Feature,Gain
+12,out_prncp,403
+7,open_acc,379
+8,mths_since_first_cr_line,367
+5,delinq_2yrs,330
+6,mths_since_last_delinq,308
+3,annual_inc,235
+11,total_acc,184
+4,dti,167
+0,loan_amnt,162
+10,revol_bal,131
+2,installment,105
+15,purpose Encoded,84
+1,int_rate,81
+9,term,12
+16,addr_state Encoded,11
+13,emp_length Encoded,8
+14,home_ownership Encoded,0
